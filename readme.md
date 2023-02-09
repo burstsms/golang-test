@@ -40,7 +40,7 @@ It is intended for this test to take roughly an hour to complete. You are free t
 
 - You are required to create the SMS service method this rpc client is attempting to call
 
-- Use the [MTMO API docs](https://docs.mtmo.io/) to submit an SMS from the service method
+- Use the [API docs](https://developer.transmitmessage.com/) to submit an SMS from the service method
 
 - Use only the Go standard library, no external packages
 
